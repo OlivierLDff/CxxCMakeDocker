@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 # Install Dependencies
 RUN export DEBIAN_FRONTEND=noninteractive && \
